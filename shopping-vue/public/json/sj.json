@@ -1,0 +1,41 @@
+[
+{
+	"goodName":"手机1",
+	"img":"/img/phone/sj1.jpg"
+},
+{
+	"goodName":"手机2",
+	"img":"/img/phone/sj2.jpg"
+},
+{
+	"goodName":"手机3",
+	"img":"/img/phone/sj3.jpg"
+},
+{
+	"goodName":"手机4",
+	"img":"/img/phone/sj4.jpg"
+},
+{
+	"goodName":"手机5",
+	"img":"/img/phone/sj5.jpg"
+},{
+	"goodName":"手机6",
+	"img":"/img/phone/sj6.jpg"
+},
+{
+	"goodName":"手机7",
+	"img":"/img/phone/sj7.jpg"
+},
+{
+	"goodName":"手机8",
+	"img":"/img/phone/sj8.jpg"
+},
+{
+	"goodName":"手机9",
+	"img":"/img/phone/sj9.jpg"
+},
+{
+	"goodName":"手机10",
+	"img":"/img/phone/sj10.jpg"
+}
+]
